@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Josh Sambrano
-#### Biostatistics Master's Student | Clinical Researcher | Clinical Trial Associate
+#### Biostatistics Master's Student | Clinical Researcher | Sr. Clinical Trial Associate
 
 ## Who I am
 
