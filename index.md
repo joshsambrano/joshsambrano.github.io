@@ -8,7 +8,7 @@ title: Home
 <div class="hero">
   <div class="hero__top">
     <div class="avatar">
-      <img src="/assets/headshot.jpg" alt="Josh headshot">
+      <img src="/assets/image1.jpg" alt="Josh headshot">
     </div>
     <div>
       <h1>Josh Sambrano</h1>
